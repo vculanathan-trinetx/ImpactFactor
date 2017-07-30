@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: theapa.bst
+Database file #1: report.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 2 entries,
+            2804 wiz_defined-function locations,
+            622 strings with 5048 characters,
+and the built_in function-call counts, 892 in all, are:
+= -- 77
+> -- 48
+< -- 1
++ -- 16
+- -- 15
+* -- 99
+:= -- 151
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 13
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 30
+empty$ -- 62
+format.name$ -- 19
+if$ -- 170
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 8
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 54
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 8
+width$ -- 0
+write$ -- 28
